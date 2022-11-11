@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Риболовля 1",
+    "time": "12:04",
+    "thumbnail": "assets/pic1.jpg",
+    "videoUrl": "https://www.4shared.com/s/f3f_2krAt"
+  },
+  {
+    "title": "Риболовля 2",
+    "time": "55 seconds",
+    "thumbnail": "assets/pic2.jpg",
+    "videoUrl": "https://img.bslmeiyu.com/uploads/20170706/The%20Bananas%20Song%20%20Counting%20Bananas%20%20Super%20Simple%20Songs.mp4"
+  },
+  {
+    "title": "Риболовля 3",
+    "time": "60 seconds",
+    "thumbnail": "assets/pic3.jpg",
+    "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4"
+  },
+  {
+    "title": "Риболовля 4",
+    "time": "120 seconds",
+    "thumbnail": "assets/pic4.jpg",
+    "videoUrl": "https://youtu.be/bgcHfyOzeEc"
+  }
+
+]
